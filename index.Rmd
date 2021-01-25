@@ -1,0 +1,15 @@
+---
+title: "Andrea Sánchez-Tapia"
+image: "andre.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/SanchezTapiaA"
+  - label: GitHub
+    url: "https://github.com/andreasancheztapia"
+  - label: Email
+    url: "mailto:andreasancheztpia@gmail.com"
+output:
+  postcards::jolla
+---
+ 
+I am a Colombian biologist (she/her). I work as a PNPD/CAPES post-doctoral fellow at the Scientific Computation Lab at the Rio de Janeiro Botanical Garden. My main interests are Biodiversity Informatics and Community Ecology.
